@@ -10,6 +10,8 @@ Execute the following instructions in order.
 
 ## Before you get started
 
+
+
 ### Disclosure
 
 Note that with version control systems such as `git`, it is easy to verify what work has or has not been done by whom on any project via the [log files](https://knowledge.kitchen/content/courses/software-engineering/slides/git-and-github/#logs). So activity using such systems cannot be faked (not that you would ever consider such a thing)!
