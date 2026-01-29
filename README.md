@@ -1,6 +1,8 @@
 # Reading assignment 
 
-## Article: [Beyond the code: Preparing software engineers for the AI era](https://news.ontariotechu.ca/archives/2026/01/beyond-the-code-preparing-software-engineers-for-the-ai-era.php)
+## Article: 
+
+The link is [here](https://news.ontariotechu.ca/archives/2026/01/beyond-the-code-preparing-software-engineers-for-the-ai-era.php)
 
 ## What I found interesting
 
